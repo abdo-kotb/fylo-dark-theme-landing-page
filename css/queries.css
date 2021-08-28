@@ -154,6 +154,7 @@
 
   .footer {
     padding-top: 25rem;
+    font-size: 2.4rem;
   }
 
   .logo-container {
@@ -164,9 +165,5 @@
   .contacts-col,
   .nav-col {
     justify-self: unset;
-  }
-
-  .address {
-    font-size: 2.4rem;
   }
 }
