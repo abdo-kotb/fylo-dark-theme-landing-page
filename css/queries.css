@@ -150,7 +150,6 @@
 @media (max-width: 23.5em) {
   .section-hero::before {
     background-image: url("../images/bg-curvy-mobile.svg");
-    height: 141px;
   }
 
   .footer {
