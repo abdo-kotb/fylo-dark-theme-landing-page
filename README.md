@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Code on Github](https://github.com/abdo-kotb/fylo-dark-theme-landing-page)
-- [Live Site URL](https://abdo-kotb.github.com/fylo-dark-theme-landing-page)
+- [Live Site URL](https://abdo-kotb.github.io/fylo-dark-theme-landing-page)
 
 ## My process
 
